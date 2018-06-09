@@ -1,5 +1,4 @@
 # nets-functions
-# functions I wrote for my networks homework
 
 newmanWattModel.m creates a network using the newman watts model
 
